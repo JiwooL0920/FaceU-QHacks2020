@@ -1,0 +1,6 @@
+framework module Pods_QHacks2020 {
+  umbrella header "Pods-QHacks2020-umbrella.h"
+
+  export *
+  module * { export * }
+}

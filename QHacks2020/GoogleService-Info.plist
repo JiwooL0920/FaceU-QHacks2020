@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>339370442948-4o2fivcoo0h09lngb80ojbitic95v10h.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.339370442948-4o2fivcoo0h09lngb80ojbitic95v10h</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDe7HhN76vvM4Qwrkt51rwqR0oJIMzZ7ys</string>
+	<key>GCM_SENDER_ID</key>
+	<string>339370442948</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.JiwooLee.QHacks2020</string>
+	<key>PROJECT_ID</key>
+	<string>qhacks2020</string>
+	<key>STORAGE_BUCKET</key>
+	<string>qhacks2020.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:339370442948:ios:2922469069a6a5340d4991</string>
+	<key>DATABASE_URL</key>
+	<string>https://qhacks2020.firebaseio.com/</string>
+</dict>
+</plist>
