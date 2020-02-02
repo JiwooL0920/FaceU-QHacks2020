@@ -13,6 +13,14 @@
 ## Description 
 Face · U is an iOS App that uses Vision Framework and a variety of CoreML models to implement machine learning analysis on people's faces. 
 
+## Demo
+![](FaceU.gif)
+
+## How to Run Project
+1. Clone the repo
+2. Download and add the following CoreML models: CNNEmotions, GenderNet, AgeNet, Resnet50 and copy it to project directory
+
+
 ## Inspiration
 Techonological developments powered by AI/Machine Learning techniques have resulted in increasing trend in face recognition systems worldwide to promote safe/reliable security systems, as well as growing social impacts. As our first iOS/Machine learning project, we wanted to tackle how we can implement a face recognition technology in a way that it will provide informations about individual's health and wellness through analyzing their emotions, stress-level, facial-age, etc... 
 
