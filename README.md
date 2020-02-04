@@ -11,7 +11,9 @@
 4. **Kevin Lei** - Queen's University · Business | Web dev
 
 ## Description 
-Face · U is an iOS App that uses Vision Framework and a variety of CoreML models to implement machine learning analysis on people's faces. 
+Face · U is an iOS App that uses Vision Framework and a variety of CoreML models to implement machine learning analysis on people's faces.  
+
+Website: https://mseok19.wixsite.com/qhacks2020
 
 ## Demo
 ![](FaceU.gif)
